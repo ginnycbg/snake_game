@@ -2,6 +2,10 @@
 
 This is my first experience with Python and Visual Studio Code, from coding to deployment. This project is a simple Snake game built using Python and Pygame.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## How to Run
 
 1. Clone the repository:
