@@ -9,9 +9,12 @@ This is a simple Snake game built using Python and Pygame.
    git clone https://github.com/your-username/snake_game.git
    cd snake_game
 2. Create and activate a virtual environment:
-python3 -m venv venv
-source venv/bin/activate
-3. Install the dependencies:
-pip install pygame
-4. Run the game:
-python snake_game.py
+   ```sh
+   python3 -m venv venv
+   source venv/bin/activate
+4. Install the dependencies:
+   ```sh
+   pip install pygame
+6. Run the game:
+   ```sh
+   python snake_game.py
