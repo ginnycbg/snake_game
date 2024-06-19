@@ -1,6 +1,6 @@
 # Snake Game
 
-This is a simple Snake game built using Python and Pygame.
+This is my first experience with Python and Visual Studio Code, from coding to deployment. This project is a simple Snake game built using Python and Pygame.
 
 ## How to Run
 
